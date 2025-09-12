@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](public/screenshot.png)
 
 ## Tech Stack
 
